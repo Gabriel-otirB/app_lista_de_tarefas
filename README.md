@@ -1,5 +1,5 @@
 # App Lista de Tarefas
-Este repositório contém o código fonte de uma aplicação web desenvolvida apenas com HTML5, CSS3, Java Script e PHP.
+Este repositório contém o código fonte de uma aplicação web desenvolvida apenas com HTML5, CSS3, Bootstrap, Java Script e PHP.
 Conteúdo com base na seção de "PHP com PDO e MYSQL" do curso "Desenvolvimento Web Completo" do professor Jorge Santana, na Udemy.
 
 O App Lista de Tarefas é uma aplicação web que permite aos usuários registrar e gerenciar suas tarefas de forma eficiente.
