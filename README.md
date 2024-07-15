@@ -7,7 +7,7 @@ As tarefas são inicialmente registradas como pendentes e, quando marcadas como 
 A aplicação possui duas principais funcionalidades: a gestão de tarefas pendentes e a visualização de todas as tarefas registradas.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/91ac3b3f-f8b2-4e5a-9163-4e37181af4f9" width="1280px" />
+<img src="https://github.com/user-attachments/assets/256cb66e-7b1d-4e94-8bc3-96787c070109" width="1280px" />
 </div>
 
 ## **Principais Funcionalidades :**
@@ -29,7 +29,7 @@ A aplicação possui duas principais funcionalidades: a gestão de tarefas pende
 
 ## **Instalação e Uso:**
 
-**Para usar o Task Manager App localmente:**
+**Para usar o App Lista de Tarefas localmente:**
  1. Clone este repositório.
  2. Configure um servidor PHP e MySQL local.
  3. Importe o arquivo de estrutura do banco de dados (banco_de_dados.sql) para criar a tabela necessária.
